@@ -1,0 +1,29 @@
+.bg-indigo{
+    background: #6610f2!important;
+    color:white;
+    border-color:transparent;
+}
+.bg-purple{
+    background: #6f42c1!important;
+    color:white;
+    border-color:transparent;
+}
+.bg-teal{
+    background: #20c997!important;
+    color:white;
+    border-color:transparent;
+}
+.bg-pink{
+    background: #e83e8c!important;
+    color:white;
+    border-color:transparent;
+}
+
+.title{
+    font-weight: 900;
+}
+
+.btn_big{
+    font-size: 1.2rem!important;
+    padding: .8rem 1.5rem!important;
+}
